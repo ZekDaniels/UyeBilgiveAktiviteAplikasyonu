@@ -1,0 +1,35 @@
+C:\Users\Zek\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Zek\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Zek\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.aramaSayfasi.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ANAFORM.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.aramaSayfasi.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.ANAFORM.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya\obj\Debug\WindowsFormsApp3.puanlamaEkrani.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.aramaSayfasi.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.ANAFORM.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.puanlamaEkrani.resources
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Zek\source\repos\WindowsFormsApp3 - Kopya - Kopya\obj\Debug\WindowsFormsApp3.pdb
